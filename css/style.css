@@ -1,0 +1,44 @@
+.header-main{
+    height: 65px;
+    width: 1220px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.navigation{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: baseline;
+    width: 825px;
+    height: 56px;
+    align-content: space-around;
+
+}
+.logo{
+    display: flex;
+    flex-direction: row;
+    margin:191px;
+    
+
+
+}
+
+.home{
+    display: flex;
+    flex-direction: row;
+}
+.bottom{
+    height: 65px;
+    width: 184px;
+    background-color: #6B77E5;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 21px 35px 22px;
+    color: white;
+    font-family: 'Cabin';
+
+
+}
