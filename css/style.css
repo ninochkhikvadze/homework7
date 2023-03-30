@@ -132,3 +132,41 @@
    font-family: 'Inter';
 }
 /* end section1 */
+.img-section{
+    width: 1920px;
+    margin-top: 35px;
+    position: relative;
+    display: inline-block;
+}
+.main-div{
+    height: 270.5px;
+    width: 511px;
+    position: absolute;
+    top:942px;
+    left: 703px;
+}
+
+.img-last{
+    width: 100%;
+    position: relative;
+}
+.last-icon{
+    background-color: #6B77E5;
+    border-radius: 50%;
+    height: 64.5px;
+    width: 64.5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.title5{
+    font-family: 'Inter';
+    font-size: ;
+
+}
+.title6{
+
+}
+.text2{
+
+}
