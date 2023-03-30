@@ -133,22 +133,23 @@
 }
 /* end section1 */
 .img-section{
-    width: 1920px;
-    margin-top: 35px;
     position: relative;
-    display: inline-block;
 }
 .main-div{
-    height: 270.5px;
     width: 511px;
     position: absolute;
-    top:942px;
-    left: 703px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,145%);
+    background-color: lightcoral;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
 }
 
 .img-last{
     width: 100%;
-    position: relative;
 }
 .last-icon{
     background-color: #6B77E5;
@@ -158,15 +159,25 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    
 }
 .title5{
     font-family: 'Inter';
-    font-size: ;
-
+    font-size: 18px;
+    color: #37393F;
+    padding-top: 43px;
 }
 .title6{
-
+    font-size: 40px;
+    color: #37393F;
+    font-family: 'Poppins';
 }
 .text2{
-
+    color: #37393F;
+    font-size: 18px;
+    font-family: 'Inter';
 }
+/* end section2 */
+
+
+
