@@ -138,11 +138,8 @@
 }
 /* end section1 */
 .img-section{
-    
-    width: 1920px;
     left: -2px;
     top: 15px;
-    border-radius: 0px;
     position: relative;
 }
 .text-block{
