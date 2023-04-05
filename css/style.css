@@ -142,6 +142,9 @@
     top: 15px;
     position: relative;
 }
+.img-last{
+    width: 100%;
+}
 .text-block{
     position: absolute;
     width: 511px;
@@ -153,12 +156,6 @@
     display: flex;
     align-items: center;
      flex-direction: column;
-
-
-}
-
-.img-last{
-    width: 100%;
 }
 .last-icon{
     background-color: #6B77E5;
